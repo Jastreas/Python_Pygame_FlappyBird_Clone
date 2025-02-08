@@ -52,4 +52,5 @@ This is a Flappy Bird clone developed using Python and Pygame. The project was c
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
+
 <img src="gameplay_screenshot.PNG" alt="Game Screenshot" width="500"/>
